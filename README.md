@@ -1,4 +1,6 @@
 # Find-Defaulters-Prediction-of-Credit-Card-fraud-
+![image](https://github.com/Abhik911/Find-Defaulters-Prediction-of-Credit-Card-fraud-/assets/67280652/97e54abb-c117-403b-9b2c-c8878449bb97)
+
 Classification model to predict whether a transaction is fraudulent or not
 FindDefault (Prediction of Credit Card fraud)
 Problem Statement:
