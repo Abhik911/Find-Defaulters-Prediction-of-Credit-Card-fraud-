@@ -10,6 +10,7 @@ The dataset contains transactions made by credit cards in September 2013 by Euro
 We have to build a classification model to predict whether a transaction is fraudulent or not.
 
 The following are the steps that have been employed towards attempting to solve this problem statement: 
+
 	Exploratory Data Analysis: Analyze and understand the data to identify patterns, relationships, and trends in the data by using Descriptive Statistics and Visualizations. 
 Data Source Information
 Time: Represents the number of seconds elapsed between the current transaction and the first transaction recorded in the dataset.
