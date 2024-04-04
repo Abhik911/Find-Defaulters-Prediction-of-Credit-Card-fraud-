@@ -12,10 +12,15 @@ We have to build a classification model to predict whether a transaction is frau
 The following are the steps that have been employed towards attempting to solve this problem statement: 
 
 	Exploratory Data Analysis: Analyze and understand the data to identify patterns, relationships, and trends in the data by using Descriptive Statistics and Visualizations. 
+
 Data Source Information
+
 Time: Represents the number of seconds elapsed between the current transaction and the first transaction recorded in the dataset.
+
 Amount: Denotes the transaction amount associated with each transaction.
+
 Class: Serves as a label indicating the nature of the transaction. It takes a value of 1 for fraudulent transactions and 0 for legitimate ones.
+
 V1-V28: May be result of a PCA Dimensionality reduction to protect user identities and sensitive features
 
 	Data Cleaning: This might include standardization, handling the missing values and outliers in the data. 
