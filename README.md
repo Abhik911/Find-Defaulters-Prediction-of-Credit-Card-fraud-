@@ -55,9 +55,7 @@ XGBoost model demonstrates exceptional performance in distinguishing between leg
  
 	Model Validation: Evaluate the performance of the model on data that was not used during the training process. The goal is to estimate the model's ability to generalize to new, unseen data and to identify any issues with the model, such as overfitting. 
 
-Overall, the models, including Logistic Regression, HistGradientBoostingClassifier, Decision Tree, and XGBoost, perform well in detecting fraudulent transactions. However, based on the comparison, the HistGradientBoostingClassifier stands out as the best-performing model across multiple metrics. Additionally, the XGBoost model has the potential to perform even better with hyperparameter tuning.
-
-
+Overall, the models, including Logistic Regression, HistGradientBoostingClassifier, Decision Tree, and XGBoost, perform well in detecting fraudulent transactions. However, based on the comparison, the HistGradientBoostingClassifier stands out as the best-performing model across multiple metrics. 
 
 ![image](https://github.com/Abhik911/Find-Defaulters-Prediction-of-Credit-Card-fraud-/assets/67280652/c0a7b280-df6e-45fe-81d4-9091e2aaa2e2)
 
