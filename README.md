@@ -37,8 +37,8 @@ The plots and graphs clearly indicate that the dataset is highly imbalanced, wit
 
 We also checked the fraudulent transactions occur more often during certain time frame.
 
-	Feature Engineering: Create new features or transform the existing features for better performance of the ML Models. 
-Typical machine learning methods tend to work better when the patterns they try to learn are balanced, meaning the same amount of good and bad behaviors are present in the dataset.
+	Feature Engineering: 
+When we received the dataset, dimensionality reduction was already performed in order to protect user identities and sensitive features.
 
 	Model Selection: Choose the most appropriate model that can be used for this project. 
 Various models were implemented to perform the classifications as the following mentioned below:
@@ -51,8 +51,6 @@ Logistic model seems to perform very well, with high precision, recall, accuracy
 HGBC model demonstrates perfect performance on the test set, achieving 100% accuracy with perfect precision, recall, and F1-score for both classes. This suggests that the model is highly effective in distinguishing between legitimate and fraudulent transactions in this dataset.
 Decision Tree model performs exceptionally well in distinguishing between legitimate and fraudulent transactions, as shown by its high accuracy, precision, recall, F1-score, and ROC AUC score.
 XGBoost model demonstrates exceptional performance in distinguishing between legitimate and fraudulent transactions, achieving perfect classification results across all evaluation metrics. This indicates that the model is highly effective and reliable for fraud detection in this dataset.
-
-
 
  
 	Model Validation: Evaluate the performance of the model on data that was not used during the training process. The goal is to estimate the model's ability to generalize to new, unseen data and to identify any issues with the model, such as overfitting. 
